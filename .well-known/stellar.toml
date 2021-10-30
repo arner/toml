@@ -1,0 +1,26 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+SIGNING_KEY="GBFBFKIBTMAYB6EBLMI7N7ZYB4MYLKJFOKGTPSAXGUVVVID5YGVTOKKA"
+ACCOUNTS=[
+"GBULWWN6LR6HFJ5YE6DJTT2WC4F4KECKCL67FH5VAFK3PV2IVOCUGNAL",
+"GBFBFKIBTMAYB6EBLMI7N7ZYB4MYLKJFOKGTPSAXGUVVVID5YGVTOKKA"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Saevis Tranquillus in Undis"
+ORG_DBA="Saevis"
+ORG_URL="https://www.saevis.nl"
+ORG_LOGO="https://tomlhosting.com/storage/633/0F7e5UgkDqewF9tyD70N04Sqk2hMTbJq9iF1BgTx.png"
+ORG_DESCRIPTION="Saevis Tranquillus in Undis"
+ORG_PHYSICAL_ADDRESS="Groningen"
+ORG_OFFICIAL_EMAIL="saevistranquillus@gmail.com"
+
+[[CURRENCIES]]
+code="WILLEMPIE"
+issuer="GBULWWN6LR6HFJ5YE6DJTT2WC4F4KECKCL67FH5VAFK3PV2IVOCUGNAL"
+display_decimals=2
+name="willempie"
+desc="Saevis Tranquillus in Undis"
+conditions="Een Willempie is altijd precies Ã©Ã©n Willempie waard. De vereniging beslist over het beleid."
+image="https://tomlhosting.com/storage/633/0F7e5UgkDqewF9tyD70N04Sqk2hMTbJq9iF1BgTx.png"
+fixed_number=27000
